@@ -1,26 +1,17 @@
-BungeeCord
+Anemos
 ==========
-Layer 7 proxy designed to link Minecraft servers.
+BungeeCord proxy fork built for proficiency and efficiency 
 --------------------------------------------------
 
-BungeeCord is a sophisticated proxy and API designed mainly to teleport players between multiple Minecraft servers. It is the latest incarnation of similar software written by the author from 2011-present.
+Anemos offers a range of features and tools to make your Minecraft network management easier and more efficient. One of the most notable features of Anemos is its customizable player routing system, which allows you to set up complex routing rules that determine how players move between servers based on various factors such as player count, server load, and player permissions.
 
-Information
------------
-BungeeCord is maintained by [SpigotMC](https://www.spigotmc.org/) and has its own [discussion thread](https://www.spigotmc.org/go/bungeecord) with plenty of helpful information and links.
+Anemos also offers advanced tools for managing permissions, chat, and player data across your network. You can easily set up custom permissions and group management systems, control chat filters and anti-spam measures, and access detailed player data and analytics to help you optimize your network's performance.
 
-### Security warning
+API
+-----
 
-As your Minecraft servers have to run without authentication (online-mode=false) for BungeeCord to work, this poses a new security risk. Users may connect to your servers directly, under any username they wish to use. The kick "If you wish to use IP forwarding, please enable it in your BungeeCord config as well!" does not protect your Spigot servers.
-
-To combat this, you need to restrict access to these servers for example with a firewall (please see [firewall guide](https://www.spigotmc.org/wiki/firewall-guide/)).
+Anemos also comes with a robust API that allows developers to build custom plugins and extensions that integrate seamlessly with the bungeecord fork. This means that you can easily add new functionality to your network, such as custom game modes, mini-games, and other features that enhance the player experience.
 
 Source
 ------
 Source code is currently available on [GitHub](https://www.spigotmc.org/go/bungeecord-git).
-
-Binaries
---------
-Precompiled binaries are available for end users on [Jenkins](https://www.spigotmc.org/go/bungeecord-dl).
-
-(c) 2012-2023 SpigotMC Pty. Ltd.
