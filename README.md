@@ -1,6 +1,8 @@
+<img width="1000" alt="Anemos" src="https://user-images.githubusercontent.com/96143134/222919215-e4eeb74d-f144-443b-bd05-b9b8fc0f298b.png">
+
 Anemos
 ==========
-BungeeCord proxy fork built for proficiency and efficiency 
+BungeeCord proxy fork built for proficiency and efficiency ==========
 --------------------------------------------------
 
 Anemos offers a range of features and tools to make your Minecraft network management easier and more efficient. One of the most notable features of Anemos is its customizable player routing system, which allows you to set up complex routing rules that determine how players move between servers based on various factors such as player count, server load, and player permissions.
