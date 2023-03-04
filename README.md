@@ -14,4 +14,4 @@ Anemos also comes with a robust API that allows developers to build custom plugi
 
 Source
 ------
-Source code is currently available on [GitHub](https://www.spigotmc.org/go/bungeecord-git).
+Source code is currently available on [GitHub](https://github.com/Thentoxd/Anemos).
